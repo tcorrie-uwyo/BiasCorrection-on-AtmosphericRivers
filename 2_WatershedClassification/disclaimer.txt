@@ -1,0 +1,2 @@
+You may notice that in the code I refer to most everything as a "Watershed", but some of the comments use subregion.
+This code was created before I knew the difference, and the code reflects that. However, for purposes of this code, the terms watershed and subregion are interchangeable.
